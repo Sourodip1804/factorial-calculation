@@ -11,6 +11,7 @@ function factorial(number){
         return a*b
 
     })
+    return c
     // console.log(c)
 }
 factorial(a)
