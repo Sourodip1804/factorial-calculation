@@ -11,6 +11,7 @@ function factorial(number){
     //     return a*b
     // or this can be written by using the short cut of arrow function 
     
+    // by using the reduce method 
     let c = arr.slice(1,).reduce((a,b)=> a*b)
     return c
     // console.log(c)
