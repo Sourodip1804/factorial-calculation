@@ -7,12 +7,11 @@ function factorial(number){
     let arr = Array.from(Array(number+1).keys()) //this return a array
     // console.log(arr.slice(1,))
     // to create for loop using arrow function
-    let c = arr.slice(1,).reduce((a,b)=>{
-        return a*b
-
-    })
-
+    // let c = arr.slice(1,).reduce((a,b)=>{
+    //     return a*b
     // or this can be written by using the short cut of arrow function 
+    
+    let c = arr.slice(1,).reduce((a,b)=> a*b)
     return c
     // console.log(c)
 }
