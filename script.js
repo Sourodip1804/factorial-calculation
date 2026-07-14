@@ -24,5 +24,6 @@ function facFor(number){
     }
     return fac
 }
+facFor(a)
 
 factorial(a)
