@@ -7,3 +7,4 @@ function factorial(number){
     console.log(arr)
 
 }
+factorial(a)
