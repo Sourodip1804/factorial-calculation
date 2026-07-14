@@ -3,5 +3,6 @@ let a = 6
 // defining a function
 
 function factorial(number){
-    
+    let arr = Array.from(Array(number).keys) 
+
 }
