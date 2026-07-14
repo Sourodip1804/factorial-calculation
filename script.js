@@ -7,6 +7,7 @@ function factorial(number){
     console.log(arr.slice(1,))
     // to create for loop using arrow function
     let c = arr.slice(1,).reduce((a,b)=>{
+        return a*b
 
     })
 }
