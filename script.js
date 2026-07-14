@@ -15,4 +15,10 @@ function factorial(number){
     return c
     // console.log(c)
 }
+
+function facFor(number){
+    let fac = 1;
+    
+}
+
 factorial(a)
