@@ -18,12 +18,12 @@ function factorial(number){
 
 function facFor(number){
     let fac = 1;
-    for (let i = 0; i <= number; i++) {
+    for (let i = 1; i <= number; i++) {
         fac = fac * i
         
     }
     return fac
 }
-facFor(a)
-
 factorial(a)
+console.log(facFor(a))
+
