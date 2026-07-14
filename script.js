@@ -11,6 +11,8 @@ function factorial(number){
         return a*b
 
     })
+
+    // or this can be written by using the short cut of arrow function 
     return c
     // console.log(c)
 }
