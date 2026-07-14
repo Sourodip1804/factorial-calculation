@@ -22,6 +22,7 @@ function facFor(number){
         fac = fac * i
         
     }
+    return fac
 }
 
 factorial(a)
