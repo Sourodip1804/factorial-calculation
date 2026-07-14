@@ -24,6 +24,6 @@ function facFor(number){
     }
     return fac
 }
-factorial(a)
+console.log(factorial(a))
 console.log(facFor(a))
 
