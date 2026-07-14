@@ -19,7 +19,7 @@ function factorial(number){
 function facFor(number){
     let fac = 1;
     for (let i = 0; i <= number; i++) {
-        const element = array[i];
+        fac = fac * i
         
     }
 }
